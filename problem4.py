@@ -1,5 +1,3 @@
-number = 6006
-
 def is_palindrome(n):
     snumber = str(n)
     first_half = (snumber[:int(len(snumber)/2)])
